@@ -4,8 +4,9 @@ if __name__ == "__main__":
     n = []
     output_list = []
     constraint_max = 2000000001
+    input_max = 31
     t = int(input())
-    if t in range(1,31):
+    if t in range(1, input_max):
         for i in range(t):
             inp = int(input())
             if inp in range (1, constraint_max):
