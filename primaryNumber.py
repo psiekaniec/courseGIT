@@ -3,11 +3,12 @@ import math
 if __name__ == "__main__":
     n = []
     output_list = []
+    constraint_max = 2000000001
     t = int(input())
     if t in range(1,31):
         for i in range(t):
             inp = int(input())
-            if inp in range (1, 2000000001):
+            if inp in range (1, constraint_max):
                 n.append(inp)
         
         for e in n:
