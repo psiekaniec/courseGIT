@@ -1,4 +1,4 @@
-thickness = 15 #This must be an odd number
+thickness = 17 #This must be an odd number
 c = 'H'
 s = ' '
 
