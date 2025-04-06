@@ -1,3 +1,0 @@
-This is my first text file.
-This is next line of the file.
-Another line.
